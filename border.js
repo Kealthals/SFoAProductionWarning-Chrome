@@ -1,5 +1,7 @@
 "use strict";
+console.log('1');
 if (isSalesforce(window.location.host)) {
+    console.log('2');
     chrome.storage.sync.get(['urls', 'tabIcon', 'overlay'], function (result) {
         onGot(result);
     });

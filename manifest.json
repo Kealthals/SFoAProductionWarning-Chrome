@@ -11,9 +11,9 @@
     "content_scripts": [
         {
             "matches": [
-                "*://*.salesforce.com/*",
-                "*://*.visual.force.com/*",
-                "*://*.lightning.force.com/*"
+                "*://*.sfcrmproducts.cn/*",
+                "*://*.vf.sfcrmapps.cn/*",
+                "*://*.lightning.sfcrmapps.cn/*"
             ],
             "js": [
                 "border.js"

@@ -1,10 +1,8 @@
-[![GitHub stars](https://img.shields.io/github/stars/Kealthals/SalesforceProductionWarning-Chrome.svg)](https://github.com/Kealthals/SalesforceProductionWarning-Chrome/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/Kealthals/SalesforceProductionWarning-Chrome.svg)](https://github.com/Kealthals/SalesforceProductionWarning-Chrome/issues)
-[![GitHub license](https://img.shields.io/github/license/Kealthals/SalesforceProductionWarning-Chrome.svg)](https://github.com/Kealthals/SalesforceProductionWarning-Chrome/blob/master/LICENSE)
-[![BCH compliance](https://bettercodehub.com/edge/badge/Kealthals/SalesforceProductionWarning-Chrome?branch=master)](https://bettercodehub.com/)
-# SalesforceProductionWarning-Chrome
+# SFoA ProductionWarning-Chrome
 
-https://chrome.google.com/webstore/detail/salesforce-production-war/ifmhcncdlalfeogfoabkgojlfffdimpo?hl=zh-CN
+https://chromewebstore.google.com/detail/sfoa-production-warning/mgppbfnelafcdcpnbihkbcdcbhmgpjpn?authuser=0&hl=en
+
+## IMPORTANT! This is the Salesforce on AlibabaCloud version of Salesforce Production Warning Chrome Extension.
 
 Help Salesforce Developers and Admins to distinguish Sandbox and Production easily by add a red border on page.
 
