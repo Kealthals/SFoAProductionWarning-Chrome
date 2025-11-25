@@ -6,6 +6,9 @@ https://chromewebstore.google.com/detail/sfoa-production-warning/mgppbfnelafcdcp
 
 Help Salesforce Developers and Admins to distinguish Sandbox and Production easily by add a red border on page.
 
+Release Note v1.6.2
+Add Support for SFoA setup page domain
+
 Release Note v1.6.1
 Adjust User Guide and Put a link about privacy policy. No new feature.
 
