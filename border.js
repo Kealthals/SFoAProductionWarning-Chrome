@@ -187,7 +187,7 @@ function addBar(id, style) {
 }
 
 function isProduction(s) {
-    var regu = /^(?!.*cs\d).(?!.*--).*\.lightning\.sfcrmapps\.cn|(^login\.|^(ap|na|eu|um|usa|ind)[0-9]{1,3}\.|^(?!.*cs\d)(?!.*--).*\.my\.)(sfcrmproducts|vf\.sfcrmapps)\.cn$/g;
+    var regu = /^(?!.*cs\d).(?!.*--).*\.lightning\.sfcrmapps\.cn|(^login\.|^(ap|na|eu|um|usa|ind)[0-9]{1,3}\.|^(?!.*cs\d)(?!.*--).*\.(my|setup)\.)(sfcrmproducts|vf\.sfcrmapps)\.cn$/g;
     var re = new RegExp(regu);
     if (re.test(s)) {
         return true;
